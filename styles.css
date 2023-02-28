@@ -1,0 +1,28 @@
+h2{
+    color:black;
+    border: solid 1px;
+    padding: 8px;
+    font-weight: bold;
+    background-color: azure;
+}
+p{
+    color: black;
+    padding: 8px;
+    border-bottom: solid;
+    font-weight: bold;
+}
+fieldset{
+   border: solid;
+   border-radius: 20px;
+   background-color: azure;
+}
+
+legend{
+    color: black;
+    border: solid;
+    border-radius: 20px;
+    background-color: rgb(180, 202, 120);
+}
+body{
+    background-color: rgb(225, 245, 238);
+}
